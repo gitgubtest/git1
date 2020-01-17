@@ -1,6 +1,7 @@
-#搭建http服务
-#启动服务
-#设置开机自启
-\\\yum -y install httpd
-\\\systemctl start httpd
-\\\systemctl enable httpd
+#使用方法
+-搭建http服务
+-启动服务
+-设置开机自启
+```yum -y install httpd
+```systemctl start httpd
+```systemctl enable httpd
